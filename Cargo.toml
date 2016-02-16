@@ -1,0 +1,6 @@
+[package]
+name = "schemepunk"
+version = "0.1.0"
+authors = ["Kana Natsuno <dev@whileimautomaton.net>"]
+
+[dependencies]
